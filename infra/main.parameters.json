@@ -21,7 +21,7 @@
       "value": "${AZURE_OPENAI_RESOURCE_GROUP}"
     },
     "openAiSkuName": {
-      "value": "F0"
+      "value": "F"
     },
     "formRecognizerServiceName": {
       "value": "${AZURE_FORMRECOGNIZER_SERVICE}"
@@ -30,7 +30,7 @@
       "value": "${AZURE_FORMRECOGNIZER_RESOURCE_GROUP}"
     },
     "formRecognizerSkuName": {
-      "value": "F0"
+      "value": "F"
     },
     "searchIndexName": {
       "value": "${AZURE_SEARCH_INDEX=gptkbindex}"
@@ -42,7 +42,7 @@
       "value": "${AZURE_SEARCH_SERVICE_RESOURCE_GROUP}"
     },
     "searchServiceSkuName": {
-      "value": "basic"
+      "value": "Free"
     },
     "storageAccountName": {
       "value": "${AZURE_STORAGE_ACCOUNT}"
