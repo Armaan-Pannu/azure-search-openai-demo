@@ -30,7 +30,7 @@
       "value": "${AZURE_FORMRECOGNIZER_RESOURCE_GROUP}"
     },
     "formRecognizerSkuName": {
-      "value": "Free"
+      "value": "F0"
     },
     "searchIndexName": {
       "value": "${AZURE_SEARCH_INDEX=gptkbindex}"
