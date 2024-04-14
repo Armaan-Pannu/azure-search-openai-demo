@@ -21,7 +21,7 @@
       "value": "${AZURE_OPENAI_RESOURCE_GROUP}"
     },
     "openAiSkuName": {
-      "value": "Free"
+      "value": "S0"
     },
     "formRecognizerServiceName": {
       "value": "${AZURE_FORMRECOGNIZER_SERVICE}"
@@ -41,7 +41,7 @@
     "searchServiceResourceGroupName": {
       "value": "${AZURE_SEARCH_SERVICE_RESOURCE_GROUP}"
     },
-    "searchServiceSkuName": { "value": "Free"
+    "searchServiceSkuName": { "value": "F0"
    },
     "storageAccountName": {
       "value": "${AZURE_STORAGE_ACCOUNT}"
