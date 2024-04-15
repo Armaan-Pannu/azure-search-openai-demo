@@ -41,8 +41,14 @@
     "searchServiceResourceGroupName": {
       "value": "${AZURE_SEARCH_SERVICE_RESOURCE_GROUP}"
     },
+<<<<<<< HEAD
     "searchServiceSkuName": { "value": "standard"
    },
+=======
+    "searchServiceSkuName": {
+      "value": "standard"
+    },
+>>>>>>> parent of fa9f33d (Updated SKUs to free tier)
     "storageAccountName": {
       "value": "${AZURE_STORAGE_ACCOUNT}"
     },
